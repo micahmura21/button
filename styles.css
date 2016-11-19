@@ -1,0 +1,34 @@
+body {
+	background-color: white;
+}
+
+#left {
+	background-color: orange;
+	height: 900px;
+	width:550px;
+	display:inline-block;
+	margin-left:20px;
+	vertical-align: top;
+}
+
+#right {
+	background-color: grey;
+	height: 900px;
+	width: 550px;
+	display:inline-block;
+	margin-left:500px;
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+}
+
+#right p{
+
+	height: 900px;
+	width: 350px;
+
+}
+
+#middle {
+	background-color: grey;
+	height: 700px; 
+}
